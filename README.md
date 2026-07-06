@@ -90,3 +90,21 @@ export function DispatchCRUD() {
 ```
 
 *Nota: Para enriquecer los despachos de Puerto Montt, combinaremos esta persistencia local con las llamadas externas a las APIs climáticas y de geolocalización al momento de crear un nuevo registro.*
+
+
+La documentacion se hizo con ayuda de la propia AI de antigravity para acelerar el proceso ya que me sobraron tokens.
+
+
+PROMPTS UTILIZADOS
+1.-
+Tengo una carpeta clonada llamada prueba-3-y-4- que ya viene con un README y una Licencia desde GitHub. Quiero crear un proyecto de React con Vite dentro de esta misma carpeta para una SPA de logística llamada 'EcoRuta Express'. ¿Cómo puedo inicializarlo usando la terminal sin borrar los archivos de Git existentes?
+
+
+2.-
+necesito que ahora crees los componentes modulares jsx y componente de lista e items y lugo enlaza los modulos en app.jsx
+
+3.-Para el proyecto EcoRuta Express necesito documentar el diseño de la arquitectura Justifica de manera técnica qué API pública o REST externa (como JSONPlaceholder para usuarios o una de geolocalizacion) que usaremos en la siguiente etapa del CRUD para enriquecer los despachos de Puerto Montt y explica de forma breve como se usaría LocalStorage para que los datos persistan al volver a cargar la página.
+
+
+
+
