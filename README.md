@@ -4,7 +4,7 @@ Este documento detalla la arquitectura de la SPA **EcoRuta Express**, desarrolla
 
 ---
 
-## 📂 Estructura de Módulos y Componentes
+## Estructura de Módulos y Componentes
 El proyecto sigue una estructura limpia y altamente modularizada. Los componentes principales y las vistas se encuentran distribuidos de la siguiente manera:
 
 *   **Punto de Entrada**: [main.jsx](file:///c:/Users/gabri/Desktop/prueba3-4/prueba-3-y-4-/prueba-3-y-4-/src/main.jsx) e [index.html](file:///c:/Users/gabri/Desktop/prueba3-4/prueba-3-y-4-/prueba-3-y-4-/index.html)
@@ -23,7 +23,7 @@ El proyecto sigue una estructura limpia y altamente modularizada. Los componente
 
 ---
 
-## 🌐 Justificación Técnica: Integración de APIs REST Externas
+## Justificación Técnica: Integración de APIs REST Externas
 
 Para la siguiente fase (implementación completa del CRUD de despachos y envíos en la región de **Puerto Montt**), integraremos las siguientes APIs públicas y REST con objetivos claros:
 
@@ -46,7 +46,7 @@ Para la siguiente fase (implementación completa del CRUD de despachos y envíos
 
 ---
 
-## 💾 Persistencia de Datos con LocalStorage
+## Persistencia de Datos con LocalStorage
 
 Para evitar la pérdida de información cuando el usuario recarga el navegador, utilizaremos `LocalStorage` en React. Este mecanismo almacena cadenas de texto clave-valor persistentes directamente en el navegador del usuario.
 
